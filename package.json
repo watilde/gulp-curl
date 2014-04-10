@@ -1,0 +1,26 @@
+{
+  "name": "gulp-curl",
+  "version": "0.0.1",
+  "description": "Download files from the internet.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/watilde/gulp-copy.git"
+  },
+  "keywords": [
+    "gulpplugin",
+    "copy"
+  ],
+  "author": {
+    "name": "Daijiro Wachi",
+    "email": "daijiro.wachi@gmail.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/watilde/gulp-curl/issues"
+  },
+  "homepage": "https://github.com/watilde/gulp-curl"
+}
